@@ -1,8 +1,7 @@
 - 👋 Hi, I’m Barış Uçal
 - 👀 I’m interested in Programming
 - 🌱 I’m currently learning C language
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me You can reach me at my email address
+- 📫 You can reach me at my email address ulasbarisucal@gmail.com
 
 <!---
 barisucal/barisucal is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
