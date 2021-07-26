@@ -1,5 +1,5 @@
-- 👋 Hi, I’m Barış Uçal
-- 👀 I’m interested in Programming
+- 👋 Hi there, I’m Barış Uçal
+- 👀 I’m interested in Programming and Technology
 - 🌱 I’m currently learning C language
 - 📫 You can reach me at my email address ulasbarisucal@gmail.com
 
